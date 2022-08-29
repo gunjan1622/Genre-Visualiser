@@ -1,1 +1,1 @@
-# Analysing a peice of monophony
+# Analysing a piece of monophony
